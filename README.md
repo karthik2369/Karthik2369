@@ -1,38 +1,38 @@
-# Hi, I'm Karthik 👋  
+Hi, I'm Karthik
 
-🎓 **Information Science & Engineering Graduate**  
-💻 **Aspiring Software Engineer | Strong in Core CS + Problem Solving**  
+🎓 Information Science & Engineering Graduate**  
+💻 Aspiring Software Engineer | Strong in Core CS + Problem Solving**  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** C, Java, Python  
+## Tech Stack  
+- **Languages:** C, Java, Python, MySQL, Bash  
 - **CS Core:** Data Structures & Algorithms (DSA), Operating Systems, DBMS, Computer Networks, OOP  
 - **Tools & Platforms:** Linux, Git/GitHub, MySQL, AWS (Basics)  
 
 ---
 
-## 📂 Featured Projects  
-🔹 **[Heap Memory Manager (C)](link-to-repo)**  
+## Featured Projects  
+🔹Heap Memory Manager (C)]
 Implemented a custom dynamic memory allocator replicating `malloc` & `free`, managing block allocation, fragmentation, and OS-level memory operations.  
 
-🔹 **[Transaction Management System (Java + MySQL)](link-to-repo)**  
+🔹Transaction Management System (Java + MySQL) 
 Built a backend system simulating ACID transactions with concurrency control and error recovery.  
 
-🔹 **[Glaucoma Detection (Python + CNN)](link-to-repo)**  
+🔹Glaucoma Detection (Python + CNN)
 Developed a deep learning model using MobileNetV2 to detect pediatric glaucoma with 96% accuracy; deployed using Flask for real-time prediction.  
 
 ---
 
-## 📈 Problem Solving  
-- Practicing DSA on **LeetCode, GFG, and HackerRank**  
+## Problem Solving  
+- Practicing DSA on LeetCode, GFG, and HackerRank**  
 - Topics covered: Arrays, Strings, Recursion, Linked List, Trees, Graphs, DP  
 
 ---
 
 ## 🌐 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/skarthikml)  
-- 📧 Email: your-email@example.com  
+- 📧 Email: skarthik2369@gmail.com  
 
 ---
 Passionate about building efficient, scalable systems and solving complex problems.
