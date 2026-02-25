@@ -21,11 +21,11 @@ Featured Projects
 Heap Memory Manager (C) :
 Implemented a custom dynamic memory allocator replicating `malloc` & `free`, managing block allocation, fragmentation, and OS-level memory operations.  
 
-Transaction Management System (Java + MySQL) :
-Built a backend system simulating ACID transactions with concurrency control and error recovery.  
-
 Glaucoma Detection (Python + CNN) :
 Developed a deep learning model using MobileNetV2 to detect pediatric glaucoma with 96% accuracy; deployed using Flask for real-time prediction.  
+
+Transaction Management System (Java + MySQL) :
+Built a backend system simulating ACID transactions with concurrency control and error recovery.  
 
 ---
 
