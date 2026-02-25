@@ -1,5 +1,10 @@
 Hi, I'm Karthik
 
+
+![Profile](https://img.shields.io/badge/Role-Aspiring%20Software%20Engineer-blue)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20ML%20%7C%20DevOps-orange)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success)
+
 Information Science & Engineering Graduate
 Aspiring Software Engineer | Strong in Core CS + Problem Solving
 
