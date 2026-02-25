@@ -30,7 +30,7 @@ Built a backend system simulating ACID transactions with concurrency control and
 ---
 
 Problem Solving  
-- Practicing DSA on LeetCode, GFG, and HackerRank**  
+- Practicing DSA on LeetCode, GFG, and HackerRank
 - Topics covered: Arrays, Strings, Recursion, Linked List, Trees, Graphs, DP  
 
 ---
