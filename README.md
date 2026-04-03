@@ -11,14 +11,14 @@ Aspiring Software Engineer | Strong in Core CS + Problem Solving
 ---
 
 Tech Stack  
-- Languages: C, Python, MySQL, Bash  
+- Languages: C++, Python, MySQL, Bash  
 - CS Core: Data Structures & Algorithms (DSA), Operating Systems, DBMS, Computer Networks, OOP  
 - Tools & Platforms: Linux, Git/GitHub, MySQL, AWS (Basics)  
 
 ---
 
 Featured Projects  
-Heap Memory Manager (C) :
+Heap Memory Manager (C++) :
 Implemented a custom dynamic memory allocator replicating `malloc` & `free`, managing block allocation, fragmentation, and OS-level memory operations.  
 
 Glaucoma Detection (Python + CNN) :
